@@ -43,6 +43,8 @@ W celu wykoanania zadania należy na systemie macierzystym (w moim przypadku win
 
 Następnie w systemie linux utworzyć nowy wolumen 
 
+![present screenshot](./img/Samba.png)
+
 ![present screenshot](./img/uruchamianieZ1.png)
 
 sprawdzamy czy w systemie macierzystym znajdują się pliki 
